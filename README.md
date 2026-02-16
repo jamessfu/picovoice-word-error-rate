@@ -9,3 +9,9 @@ Install dependencies:
 ```bash
 pnpm install
 ```
+
+To start the development server:
+
+```bash
+pnpm dev
+```
